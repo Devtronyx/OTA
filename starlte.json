@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1617616860,
+      "filename": "lineage-18.1-20210405-UNOFFICIAL-starlte.zip",
+      "id": "9e0c402b0636a04aaa91dff3271e7b9d",
+      "romtype": "UNOFFICIAL",
+      "size": 605578434,
+      "url": "https://github.com/devtronyx/OTA/releases/download/05-04-2021/lineage-18.1-20210405-UNOFFICIAL-starlte.zip",
+      "version": "18.1"
+    }
+  ]
+}
